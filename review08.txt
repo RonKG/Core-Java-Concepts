@@ -1,0 +1,30 @@
+Answers to chapter 8 review questions
+
+01. What's the difference between an iterative loop and a conditional loop?
+
+ A: An iterative loop executes a predefined number of times.  A conditional
+    loop executes until a specified condition becomes false.
+
+02. What is the common name for an iterative loop?
+
+ A: Iterative loops are commonly called "for" loops.
+
+03. What is the common name for a conditional loop?
+
+ A: Conditional loops are commonly called "while" loops.
+
+04. What is the term for the statement or group of statements controlled
+    by a loop?
+
+ A: The statement or statement controlled by a loop is called the loop body.
+
+05. What is a nested loop?
+
+ A: A nested loop is a loop that's controlled by another loop.  Nesting means
+    putting one control statement under the control of another one.
+
+06. What is an infinite loop?  How is an infinite loop stopped?
+
+ A: A loop that never ends -- it loops forever.  An infinite loop is
+    stopped by a break statement in the loop body.
+
