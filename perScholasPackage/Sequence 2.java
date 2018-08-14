@@ -1,5 +1,5 @@
 /*
-3. Write a program that uses while loop and print out the following sequence
+1. Write a program that uses while loop and print out the following sequence
 Seq2- 5, 45, 405, 3645
  */
 
