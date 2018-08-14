@@ -2,7 +2,6 @@ package perScholasPackage;
 
 /*
 2. Write a program to implement String to Date conversion.
-There are a lot of resources available on google
 */
 
 import java.text.ParseException;
