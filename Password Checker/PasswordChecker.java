@@ -29,7 +29,7 @@ public class PasswordChecker {
 		return pass;
 	}
 
-	public static void checkString(String pass) {
+	public static void checkPassword(String pass) {
 		String str = pass;
 
 		Pattern letter = Pattern.compile("^[A-Fa-f]");
@@ -51,6 +51,6 @@ public class PasswordChecker {
 	
 	
 	public static void main(String[] args) {
-		checkString(getPassword());
+		checkPassword(getPassword());
 	}
 }
