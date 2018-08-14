@@ -6,5 +6,5 @@ Implement this program using two classes:
  Main class
  UserMainClass- 
  
- This class should have a method getMidEle() which should accept  
+ This class should have a method getMiddle() which should accept  
  one integer array as  parameter and return type should be integer
