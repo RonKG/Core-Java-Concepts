@@ -1,14 +1,14 @@
 /*
 Write a program that takes in String inputs into an array; 
-each String corresponds to a personís name and three of their bills 
-e.g. ìname-electricity-water-phoneî > [mike-80-90-40]. 
+each String corresponds to a person‚Äôs name and three of their bills 
+e.g. ‚Äúname-electricity-water-phone‚Äù > [mike-80-90-40]. 
 These String inputs will follow the aforementioned format. 
 With this array of Strings, calculate which person has the 
 highest bill and return the name of said person; this highest bill 
 is determined by individually (per person/String) summing 
 each bill together to get their respective totals. 
-In the class UserMainCode, complete the static method ìhighestbillî; 
-this method has a String array as itís parameter. 
+In the class UserMainCode, complete the static method ‚Äúhighestbill‚Äù; 
+this method has a String array as it‚Äôs parameter. 
 The return type (String) should return the name of the person with 
 the highest total bill. Also assume that the bill will have only one person name, 
 in the event of two persons having the same highest total score).
