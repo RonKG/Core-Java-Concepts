@@ -1,16 +1,16 @@
 /*
 3. Write a method that takes two arguments (String and a char) and returns 
 the number of times the char occurs in the string.  If the char is not found , 
-print a message “character not found”.
+print a message â€œcharacter not foundâ€.
 Write a program that will be validating if a String input is of valid password format. 
-Here are some requirements outlined below to properly indicate a “valid password”.
- 
+Here are some requirements outlined below to properly indicate a â€œvalid passwordâ€.
+Â 
 Validation Rules
-    • String should start with a “A-F” character
-    • Total length of the String should be greater than 7 characters.
-    • There should be presence of a special symbol of the following special symbol &,$
-    • These 7 characters can include digits “0-9”
-    • String should end with a ‘#’ character.
+    â€¢ String should start with a â€œA-Fâ€ character
+    â€¢ Total length of the String should be greater than 7 characters.
+    â€¢ There should be presence of a special symbol of the following special symbol &,$
+    â€¢ These 7 characters can include digits â€œ0-9â€
+    â€¢ String should end with a â€˜#â€™ character.
 */
 
 package perScholasPackage;
@@ -47,12 +47,7 @@ public class PasswordChecker {
 		}
 	}
 
-	//
-	//
-	//
-	//
-	//
-	//
+//--------------------------------------------------------------------------------------------
 	
 	
 	public static void main(String[] args) {
