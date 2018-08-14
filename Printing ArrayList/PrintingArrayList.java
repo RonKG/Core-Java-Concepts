@@ -1,5 +1,6 @@
-package perScholasPackage;
-
+/*
+Printing an ArrayList
+*/
 import java.util.ArrayList;
 
 public class PrintingArrayList {
