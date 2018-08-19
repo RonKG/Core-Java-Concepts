@@ -4,7 +4,7 @@
 
 - The exercise asks for the following classes:
   
-  - Account
+  - Account - 
   
   - Checking 
   
