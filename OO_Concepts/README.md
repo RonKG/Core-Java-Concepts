@@ -14,4 +14,7 @@
   
   - Individual
   
-  - 
+ - I have implemented the above and created an Exception class.
+ 
+ - All four concepts of OO have been implemented in one way or the other.
+ - Abstraction, Encapsulation, Polymorphism and Inheritance.
