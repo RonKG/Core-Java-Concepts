@@ -23,6 +23,8 @@
  Excersise details
  -------------------------
  
+  ![Bank project UML diagram](https://github.com/RonKG/Core-Java-Concepts/blob/master/OO_Concepts/UML%20diagram.PNG)
+  
  Create java program that simulates bank account transactions for an Individual account and Corporation account 
  Note: transactions for each type of account will be coded in their class structure within their main method. 
  
@@ -33,5 +35,3 @@
  
  Finally do not forget to provide available balance for checkings and savings after all deposit transactions are done and after every transfer transaction is attempted.
  
- ![Bank project UML diagram](https://github.com/RonKG/Core-Java-Concepts/blob/master/OO_Concepts/UML%20diagram.PNG)
-Format: ![Alt Text](url)
