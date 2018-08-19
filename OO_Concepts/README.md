@@ -33,5 +33,5 @@
  
  Finally do not forget to provide available balance for checkings and savings after all deposit transactions are done and after every transfer transaction is attempted.
  
- ![GitHub Logo](/images/logo.png)
+ ![Bank project UML diagram](https://github.com/RonKG/Core-Java-Concepts/blob/master/OO_Concepts/UML%20diagram.PNG)
 Format: ![Alt Text](url)
