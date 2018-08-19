@@ -25,9 +25,12 @@
  
  Create java program that simulates bank account transactions for an Individual account and Corporation account 
  Note: transactions for each type of account will be coded in their class structure within their main method. 
+ 
  Both (Individual and Corporation) account types will deposit any amount to their Checkings and Savings member property. 
  Afterwards, make transfers of any amount to their checkings (from savings) or to their savings (from checkings). 
+ 
  If the amount being transferred is greater than available balance, please provide an error notification to user.
+ 
  Finally do not forget to provide available balance for checkings and savings after all deposit transactions are done and after every transfer transaction is attempted.
  
  
